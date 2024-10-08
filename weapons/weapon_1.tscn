@@ -1,0 +1,3 @@
+[gd_scene format=3 uid="uid://ohse6py26e06"]
+
+[node name="weapon1" type="MeshInstance3D"]
