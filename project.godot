@@ -18,6 +18,10 @@ config/icon="res://icon.svg"
 
 project/assembly_name="fps1"
 
+[filesystem]
+
+import/fbx/enabled=false
+
 [input]
 
 left={
